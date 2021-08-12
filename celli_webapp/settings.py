@@ -90,9 +90,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'u372448484_cellibini_bike',
-        'USER': 'u372448484_celli_root',
-        'PASSWORD': '$eh0kLmr',
-        'HOST': '213.190.6.43',
+        'USER': 'root',
+        'PASSWORD': 'Baskinrobbins69!',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
